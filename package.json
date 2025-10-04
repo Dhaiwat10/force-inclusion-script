@@ -1,0 +1,16 @@
+{
+  "name": "force-inclusion-script",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@arbitrum/sdk": "^4.0.4",
+    "dotenv": "^17.2.3",
+    "ethers": "^6.15.0"
+  }
+}
